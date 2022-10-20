@@ -116,7 +116,7 @@ class _HalamanduaState extends State<Halamandua> {
   Widget build(BuildContext context) {
     return new Scaffold(
       appBar: new AppBar(
-        title: new Text("Kembali"),
+        title: new Text("Back"),
         backgroundColor: Colors.purpleAccent,
         actions: <Widget>[
           new PopupMenuButton<Pilihan>(
